@@ -101,7 +101,7 @@ export default async function Home() {
           </div>
         </section>
       </main>
-      <footer className="bg-neutral-950 flex items-center justify-between w-full py-12 px-8">
+      <footer className="bg-neutral-950 flex items-center justify-between w-full py-12 px-8 flex-wrap">
         <section className="flex items-center">
           <Image className="w-24 h-24" src="/genadev-v-nobg-3.png" alt="Logo de GenaDeev" width={200} height={200} />
           <h4>Coded by <span className="cursor-pointer hover:text-yellow-500 transition-colors duration-200">© 2024 GenaDeev</span></h4>
